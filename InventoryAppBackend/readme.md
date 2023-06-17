@@ -66,7 +66,7 @@ Great!, after cloning & setting up the local project you can push the changes to
 
 Fork the repository and then clone the repo locally by -
 ```bash
-git clone https://github.com/getlost01/InventoryAppFrontend.git
+git clone https://github.com/varunsingh09/AppInventory.git
 ```
 #### Step 2: Install Dependencies
 jump into the directory
